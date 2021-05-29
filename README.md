@@ -12,12 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
 <p align="center">
     <img align="right" width="450" src="https://github.com/Jackie098/Jackie098/blob/main/dark_mode_purple.svg" />
 </p>
-</br>
-</br>
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Abstract
 
@@ -27,6 +26,10 @@ Here are some ideas to get you started:
 - :video_game: Dota2 and Ot Pokemon (💙 world 💙) - Let's play a game
 - 🤔 Encouraging *DEV* culture in my city - **FloriDEV**
 - 👨‍💻 "If you can't do great things, do small things grandly" *Martin Luther King*
+
+
+</br>
+</br>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
