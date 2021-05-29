@@ -12,13 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-    <!--<img align="center" width="300" src="mateus.png" /> -->
+<!-- <p align="center">
     <h3 align="center" width="300">“Se você não pode fazer coisas grandiosas, faça coisas pequenas grandiosamente” </h3>
     <img align="center" width="450" src="https://github.com/Jackie098/Jackie098/blob/main/landscape_horizon.svg" />
 </p>
 </br>
-</br>
+</br> -->
+## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
+### Abstract
+
+- :sunglasses: Programador **Fullstack**
+- 🌱 Estudante de Análise e Desenvolvimento de Sistema
+- :heart_eyes: Interesse: Javascript, Typescript, NodeJS, React
+- :video_game: Dota2 e Ot Pokemon (mundo 💙) - Bora bater um gamezin huehueuhe
+- 🤔 Incentivando a cultura *DEV* na minha cidade - **FloriDEV**
+-  👨‍💻 "Se você não pode fazer coisas grandiosas, faça coisas pequenas grandiosamente" *Martin Luther King*
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -34,17 +44,6 @@ Here are some ideas to get you started:
     />
   </a>
 </p>
-
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
-### Abstract
-
-- :sunglasses: Programador **Fullstack**
-- 🌱 Estudante de Análise e Desenvolvimento de Sistema
-- :heart_eyes: Interesse: Javascript, Typescript, NodeJS, React
-- :video_game: Dota2 e Ot Pokemon (mundo 💙) - Bora bater um gamezin huehueuhe
--  👨‍💻 "Se você não pode fazer coisas grandiosas, faça coisas pequenas grandiosamente" *Martin Luther King*
-
 
 ## Skills :nerd_face:
 <p align="center">
