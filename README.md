@@ -42,7 +42,7 @@ Here are some ideas to get you started:
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=teteusaraujo&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api?username=jackie098&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=tokyonight"
     />
   </a>
 </p>
