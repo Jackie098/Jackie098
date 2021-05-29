@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 
 ### Abstract
 
-- 👨‍💻 Engenheiro de Software Jr na **Itaú Unibanco**.
-- 🌱 Estudante de Ciência da computação, 5° semestre.
-- 💙 Interesse: Java, Spring Boot, html, css, javaScript, React, c# , .net e ASP.net.
-- :video_game: Gosta de jogar Free fire? É só chamar, vamos subir de patente juntos ou não hehehe
+- 👨‍💻 "Se você não pode fazer coisas grandiosas, faça coisas pequenas grandiosamente" *Martin Luther King*
+- 🌱 Estudante de Análise e Desenvolvimento de Sistema
+- :heart_eyes: Interesse: Javascript, Typescript, NodeJS, React
+- :video_game: Dota2 e Ot Pokemon (mundo 💙) 
 
 
 ## Skills :nerd_face:
@@ -66,24 +66,18 @@ Here are some ideas to get you started:
 ## Contact :iphone:
 
 <p align="center">
-    <a href="https://github.com/teteusAraujo">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo">
+    <a href="https://github.com/Jackie098">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Jackie098">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:mateusaraujo996@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com">
+    <a href="mailto:carlosmiranda19122@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:carlosmiranda19122@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/mateusaraujobarros">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mateusaraujobarros/">
+    <a href="https://www.linkedin.com/in/carlos-miranda-243317183/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/carlos-miranda-243317183/">
     </a>
 </p>
 
 <p align="center"> 
-
- ## Total de Visitas no perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
- </p>
-
 </p>
