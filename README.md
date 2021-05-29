@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Jackie098/Jackie098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -44,10 +42,11 @@ Here are some ideas to get you started:
 
 ### Abstract
 
-- 👨‍💻 "Se você não pode fazer coisas grandiosas, faça coisas pequenas grandiosamente" *Martin Luther King*
+- :sunglasses: Programador **Fullstack**
 - 🌱 Estudante de Análise e Desenvolvimento de Sistema
 - :heart_eyes: Interesse: Javascript, Typescript, NodeJS, React
-- :video_game: Dota2 e Ot Pokemon (mundo 💙) 
+- :video_game: Dota2 e Ot Pokemon (mundo 💙) - Bora bater um gamezin huehueuhe
+-  👨‍💻 "Se você não pode fazer coisas grandiosas, faça coisas pequenas grandiosamente" *Martin Luther King*
 
 
 ## Skills :nerd_face:
