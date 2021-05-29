@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Abstract
 
-- :sunglasses: Programador **Fullstack**
+<!--- :sunglasses: Programador **Fullstack** -->
 - 🌱 Estudante de Análise e Desenvolvimento de Sistema
 - :heart_eyes: Interesse: Javascript, Typescript, NodeJS, React
 - :video_game: Dota2 e Ot Pokemon (mundo 💙) - Bora bater um gamezin huehueuhe
