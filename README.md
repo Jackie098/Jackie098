@@ -13,12 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <a href="#">
-    <img align="center" width="300" src="mateus.png" />
-  </a>
-  <a href="#">
-    <img align="center" width="450" src="dev.gif" />
-  </a>
+    <!--<img align="center" width="300" src="mateus.png" /> -->
+    <h3 align="center" width="300">“Se você não pode fazer coisas grandiosas, faça coisas pequenas grandiosamente” </h3>
+    <img align="center" width="450" src="https://github.com/Jackie098/Jackie098/blob/main/landscape_horizon.svg" />
 </p>
 </br>
 </br>
