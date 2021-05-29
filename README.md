@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 ### Abstract
 
 <!--- :sunglasses: Programador **Fullstack** -->
-- 🌱 Estudante de Análise e Desenvolvimento de Sistema
-- :heart_eyes: Interesse: Javascript, Typescript, NodeJS, React
-- :video_game: Dota2 e Ot Pokemon (mundo 💙) - Bora bater um gamezin huehueuhe
-- 🤔 Incentivando a cultura *DEV* na minha cidade - **FloriDEV**
--  👨‍💻 "Se você não pode fazer coisas grandiosas, faça coisas pequenas grandiosamente" *Martin Luther King*
+- 🌱 System Analysis and Development Student
+- :heart_eyes: Interest: Javascript, Typescript, NodeJS, React
+- :video_game: Dota2 and Ot Pokemon (💙 world 💙) - Let's play a game
+- 🤔 Encouraging *DEV* culture in my city - **FloriDEV**
+- 👨‍💻 "If you can't do great things, do small things grandly" *Martin Luther King*
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
